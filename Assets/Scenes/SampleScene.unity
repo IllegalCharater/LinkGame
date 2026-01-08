@@ -783,22 +783,22 @@ MonoBehaviour:
   tilePrefab: {fileID: 7666973472563103812, guid: a74c9fb658abe2142b4ac2fdc1d4d0c3, type: 3}
   gridContainer: {fileID: 1538673315}
   elementSprites:
-  - {fileID: 21300000, guid: aad04193e591cb444a15b798fe206516, type: 3}
-  - {fileID: 21300000, guid: 3367686a687a9ae46ac8d65cdaddc002, type: 3}
-  - {fileID: 21300000, guid: 1eefaedc56512c34a8161548be7b6a83, type: 3}
-  - {fileID: 21300000, guid: 01534cc563efca4448986a6ec0b8733e, type: 3}
-  - {fileID: 21300000, guid: ed35fc7f7c29b9348865ada2624e32d4, type: 3}
-  - {fileID: 21300000, guid: 938429c0da2ff9448a6373e826eb3339, type: 3}
-  - {fileID: 21300000, guid: 0e0d33e874ab55a4fb2b47cfd048adfc, type: 3}
-  - {fileID: 21300000, guid: 642d402044a7d5b44b2f259af38c4034, type: 3}
-  - {fileID: 21300000, guid: 81522bf89ae5dcf4483e9851afa10089, type: 3}
-  - {fileID: 21300000, guid: 09858a693eff1ab4c9ea60d9f8122576, type: 3}
-  - {fileID: 21300000, guid: 50c8be642270b874db2b51cd04556320, type: 3}
-  - {fileID: 21300000, guid: 4c71cfacce2d0d149830254a1c2754de, type: 3}
-  - {fileID: 21300000, guid: 370368bef7e787547a3f767dfaa7ae02, type: 3}
-  - {fileID: 21300000, guid: 8c0f548811aab2a4abc2ec1b448da915, type: 3}
-  - {fileID: 21300000, guid: b165acce6cf1ef54aa3c3bcfe5e4e9e6, type: 3}
-  - {fileID: 21300000, guid: 22ce1494c92c89f40bf7252abea0b991, type: 3}
+  - {fileID: 21300000, guid: 248144bc653adb44898a7c1274af3048, type: 3}
+  - {fileID: 21300000, guid: 540c6538d77e8bf4b9391b5b2579ccf6, type: 3}
+  - {fileID: 21300000, guid: 809ac40e8c561e74cb674b5fbfdcfa59, type: 3}
+  - {fileID: 21300000, guid: 6f468cf054067cc4880075351ead3908, type: 3}
+  - {fileID: 21300000, guid: 732a7cb391e85bb41a71aec3657eb329, type: 3}
+  - {fileID: 21300000, guid: 800caba783089ae41867bc6dc6ea2ebe, type: 3}
+  - {fileID: 21300000, guid: 11aa7e426faec8a408fff7184d7138fb, type: 3}
+  - {fileID: 21300000, guid: 9ae9874a4105b3641bcb033a2ce93ab6, type: 3}
+  - {fileID: 21300000, guid: 1780e1f064747e649be513d3d7e03aa0, type: 3}
+  - {fileID: 21300000, guid: b7c89232bb361ca48ba7a27adf5a82db, type: 3}
+  - {fileID: 21300000, guid: 0355cb75a380825478a050fc4ce43dc1, type: 3}
+  - {fileID: 21300000, guid: 2f7ed7214c13ef2489ba8eeeb53f0a3b, type: 3}
+  - {fileID: 21300000, guid: 1ecb56e05c2723f4eb8fb6765d80acc6, type: 3}
+  - {fileID: 21300000, guid: 61595a2ea24988d43b2d30c849447b33, type: 3}
+  - {fileID: 21300000, guid: 9bccdcb877479004caf9ca9a17d6a27b, type: 3}
+  - {fileID: 21300000, guid: 8518ca1229beac649b592722c6ef4e39, type: 3}
   specialElementSprite: {fileID: 0}
   specialElementChance: 0.1
 --- !u!1 &1288448913
