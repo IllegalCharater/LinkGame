@@ -1,0 +1,92 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+# Unity 2D 项目 .cursorignore 文件
+
+# Unity 生成的文件夹
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 自动生成的文件
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity 缓存
+sysinfo.txt
+*.stackdump
+crashinfo.json
+
+# 构建输出
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 资源导入缓存
+*.resS
+*.resource
+*.unity
+*.unity.meta
+
+# 临时文件
+*~
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 相关
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.booproj
+
+# 版本控制
+.git/
+.gitignore
+.gitattributes
+
+# 用户特定文件
+*.userprefs
+*.user
+*.suo
+*.sln.docstates
+
+# 平台特定
+.vs/
+*.pidb.meta
+
+# 2D 项目特定的忽略项
+[Tt]ilemap/
+*.tilemap
+*.tilemap.meta
+
+# 忽略大型资源文件（根据需要调整）
+*.psd
+*.ai
+*.blend
+*.max
+*.ma
+*.mb
+*.3ds
+*.dxf
+*.c4d
+*.fbm
+*.fbx.meta
